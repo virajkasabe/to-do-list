@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Task1 from './task1'
+
 import Task2 from './Task2'
 
 function App() {
